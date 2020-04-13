@@ -1,3 +1,12 @@
+ul {
+  list-style-type:square;
+}
+
+/*
+square,circle,disc and none 
+*/
+
+
 img {
     max-width:100%;
 }
@@ -51,8 +60,8 @@ body {
   }
   
   #navbar a {
-    display: block;
-    padding: 10px 30px;
+    display:block;
+    padding: 31px 30px;
     color: #4d4e53;
     text-decoration: none;
     cursor: pointer;
